@@ -1,0 +1,51 @@
+#jumbotron_right {
+  padding-left: 5%;
+}
+
+.card {
+  margin-top: 5%;
+}
+
+.navbar {
+  font-family: 'Permanent Marker', cursive;
+}
+
+.jumbotron h1 {
+  font-family: 'Permanent Marker';
+}
+
+.jumbotron p {
+  font-family: 'Jua', sans-serif;
+  font-size: 1.5rem;
+}
+
+h1, h2, p, footer {
+  font-family: 'Jua', sans-serif;
+}
+
+.btn {
+  background-color: #453a3f;
+  color: #e8e9e7;
+  border: none;
+  transition: all 0.5s ease-out;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: #a79594;
+  color: #453a3f;
+  font-weight: bold;
+}
+
+h1, h2 {
+  color: #453a3f;
+}
+
+body, #my_skills, #my_contacts, .card-body {
+  background-color: #f8f9fa;
+}
+
+#my_projects {
+  background-color: #e9ecef;
+  padding-top: 5%;
+}
