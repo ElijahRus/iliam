@@ -7,11 +7,11 @@
 }
 
 .navbar {
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Princess Sofia', cursive;
 }
 
 .jumbotron h1 {
-  font-family: 'Permanent Marker';
+  font-family: 'Princess Sofia', cursive;
 }
 
 .jumbotron p {
@@ -19,7 +19,7 @@
   font-size: 1.5rem;
 }
 
-h1, h2, p, footer {
+h1, h2, h5, p, footer {
   font-family: 'Jua', sans-serif;
 }
 
