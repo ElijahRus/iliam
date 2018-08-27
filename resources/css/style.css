@@ -1,5 +1,6 @@
 #jumbotron_right {
   padding-left: 5%;
+  padding-top: 5%;
 }
 
 .card {
@@ -8,6 +9,14 @@
 
 .navbar {
   font-family: 'Princess Sofia', cursive;
+  font-weight: bold;
+}
+.navbar-brand {
+  font-size: 1.6rem;
+}
+
+#navbarNav {
+  font-size: 1.3rem;
 }
 
 .jumbotron h1 {
