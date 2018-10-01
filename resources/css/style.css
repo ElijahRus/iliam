@@ -3,14 +3,11 @@
   padding-top: 5%;
 }
 
-.card {
-  margin-top: 5%;
-}
-
-.navbar {
+ .navbar {
   font-family: 'Princess Sofia', cursive;
   font-weight: bold;
 }
+
 .navbar-brand {
   font-size: 1.6rem;
 }
@@ -32,6 +29,14 @@ h1, h2, h5, p, footer {
   font-family: 'Jua', sans-serif;
 }
 
+.card-deck {
+  padding: 3%;
+}
+
+.my_card {
+  display: block !important;
+}
+
 .btn {
   background-color: #453a3f;
   color: #e8e9e7;
@@ -50,11 +55,15 @@ h1, h2 {
   color: #453a3f;
 }
 
-body, #my_skills, #my_contacts, .card-body {
+body, #my_skills, #my_contacts, .my_card {
   background-color: #f8f9fa;
 }
 
 #my_projects {
   background-color: #e9ecef;
-  padding-top: 5%;
+  padding: 5% 0 5% 0;
+}
+
+#my_contacts {
+  margin-top: 3%;
 }
