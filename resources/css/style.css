@@ -67,3 +67,8 @@ body, #my_skills, #my_contacts, .my_card {
 #my_contacts {
   margin-top: 3%;
 }
+
+.empty_card {
+  background-color: #e9ecef;
+  border: none;
+}
